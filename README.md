@@ -5,4 +5,4 @@
 	I will only present tips about CS courses and maybe some really easy math ones (i'm bad at math).
 
  ## **Courses**:
- [Link to H2 Header](Disclaimer)
+ [Link to H2 Header](#disclaimer)
